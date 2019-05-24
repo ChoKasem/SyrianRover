@@ -1,0 +1,8 @@
+prefix=/home/jok/syrianspock/devel
+
+Name: rover_description
+Description: Description of rover_description
+Version: 0.1.0
+Cflags: 
+Libs: -L/home/jok/syrianspock/devel/lib 
+Requires: 

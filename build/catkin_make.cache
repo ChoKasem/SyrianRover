@@ -1,0 +1,2 @@
+rover/hector_models/hector_components_description:rover/hector_models/hector_models:rover/hector_models/hector_sensors_description:rover/hector_models/hector_xacro_tools:rover/rover_control:rover/rover_description:rover/rover_simulation
+-DCATKIN_DEVEL_PREFIX=/home/jok/syrianspock/devel -DCMAKE_INSTALL_PREFIX=/home/jok/syrianspock/install -G Unix Makefiles

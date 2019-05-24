@@ -1,0 +1,8 @@
+prefix=/home/jok/syrianspock/install
+
+Name: rover_control
+Description: Description of rover_control
+Version: 0.1.0
+Cflags: 
+Libs: -L/home/jok/syrianspock/install/lib 
+Requires: 
